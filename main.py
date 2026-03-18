@@ -1,6 +1,6 @@
 from langchain_ollama import ChatOllama
 from langchain_core.prompts import ChatPromptTemplate
-from simple_rag import encode_pdf
+from pdf_ingestion import encode_pdf
 from helper_functions import retrieve_context_per_question
 
 

@@ -2,3 +2,4 @@
 .venv
 rag-agent/
 __pycache__/
+.env
